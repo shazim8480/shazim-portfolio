@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Adnan Sami Shazim",
+    "occupation": "React.js Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "I'm a Front-End Web Developer with experience building out both consumer and startup applications. This includes web apps with the latest technologies, mostly React.js, MongoDB, Node.js & Express.js. By ONLY providing PREMIUM service, I will help build you an MVP to land a victory on the fund-raising, investments, and success.",
+    "contactmessage": "Get in touch",
+    "email": "shazim_99@yahoo.com",
+    "phone": "+880 1521 251853",
+    "address": {
+      "street": "Azimpur",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": "1205"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/adnan.s.shazim",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/adnanShazim",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shazim8480",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Institute of Education and Research - University of Dhaka",
+        "degree": "Bachelor's Degree, Bachelor of Education",
+        "graduated": "2018 - Present",
+        "description": "Major in Biological Science Education (CGPA 3.56)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Coworking Hub",
+        "title": "React.js Developer / Team Leader",
+        "years": "March 2021 - Present",
+        "description": "Currently working as an in-house React.js Developer and Team Leader of Web & Programming Team. My responsibility here as a team leader is to support team members on a 24/7 basis and instruct them the fundamentals of 'Front-end Web Development with React.js'"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "React.js",
+        "level": "95%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "85%"
+      },
+      {
+        "name": "Firebase",
+        "level": "85%"
+      },
+      {
+        "name": "Express.js",
+        "level": "90%"
+      },
+      {
+        "name": "UI Frameworks (Bootstrap, Material UI, Tailwind CSS)",
+        "level": "95%"
+      },
+      {
+        "name": "Version Control (GitHub, GitLab)",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Dirty Wash (MERN)",
+        "category": "Full Stack Development",
+        "tech": "MongoDB|Express.js|React.js|Node.js",
+        "image": "dirtywash.jpeg",
+        "url": "https://dirty-wash.firebaseapp.com/",
+        "client": "https://github.com/shazim8480/Dirty-wash-client",
+        "server": "https://github.com/shazim8480/Dirty-wash-server"
+      },
+      {
+        "title": "Collective Stall (MERN)",
+        "category": "Full Stack Development",
+        "tech": "MongoDB|Express.js|React.js|Node.js",
+        "image": "collectiveStall.jpeg",
+        "url": "https://collective-stall.web.app/",
+        "client": "https://github.com/shazim8480/collective-stall-client",
+        "server": "https://github.com/shazim8480/collective-stall-server"
+      },
+      {
+        "title": "City Ride (React.js)",
+        "category": "Front-End Development",
+        "tech": "React.js|Firebase Authentication",
+        "image": "city-ride_reactjs.jpeg",
+        "url": "https://city-ride.netlify.app/",
+        "client": "https://github.com/shazim8480/city-ride-auth-firebase",
+        "server": "https://github.com/shazim8480/city-ride-auth-firebase"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shazim is an excellent Developer. We hired him for a project and he did his work with perfection. He also trained our team some new concepts that brought us more success. Wishing him luck!!",
+        "user": "Ehsanul H. | Founder, Coworking Hub"
+      }
+    ]
+  }
+}
