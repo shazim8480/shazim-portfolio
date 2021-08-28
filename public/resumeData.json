@@ -2,7 +2,7 @@
   "main": {
     "name": "Adnan Sami Shazim",
     "occupation": "React.js Developer",
-    "description": "I eat, sleep and breathe React",
+    "description": "Working with MERN Stack",
     "image": "profilepic.jpg",
     "bio": "I'm a Front-End Web Developer with experience building out both consumer and startup applications. This includes web apps with the latest technologies, mostly React.js, MongoDB, Node.js & Express.js. By ONLY providing PREMIUM service, I will help build you an MVP to land a victory on the fund-raising, investments, and success.",
     "contactmessage": "Get in touch",
@@ -14,8 +14,7 @@
       "state": "Bangladesh",
       "zip": "1205"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://drive.google.com/file/d/1QlbNNq-5_BFZJr0aTGeD6oUn2iXSSprq/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
