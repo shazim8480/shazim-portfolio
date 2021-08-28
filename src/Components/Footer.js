@@ -22,7 +22,12 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made by{" "}
-              <a title="Adnan Sami Shazim" href="#">
+              <a
+                title="Adnan Sami Shazim"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/shazim8480"
+              >
                 Adnan Sami Shazim
               </a>
             </li>
