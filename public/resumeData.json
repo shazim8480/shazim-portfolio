@@ -45,9 +45,15 @@
     ],
     "work": [
       {
+        "company": "Konnect Enterprises LLC",
+        "title": "React Native Developer | Intern",
+        "years": "Nov 2021 - Present",
+        "description": "Core responsibility is to develop native mobile application (Tailgate) using React Native Expo, Firebase, Redux Toolkit, and Tailwind CSS. Also, designing screens from Figma and implementing them with React Navigation. Another responsibility is to manage and attend daily SCRUM with team members and weekly meetings with the senior developer to keep everything in check."
+      },
+      {
         "company": "Coworking Hub",
-        "title": "React.js Developer / Team Leader",
-        "years": "March 2021 - Present",
+        "title": "React.js Developer | Team Leader",
+        "years": "March 2021 - Sep 2021",
         "description": "Currently working as an in-house React.js Developer and Team Leader of Web & Programming Team. My responsibility here as a team leader is to support team members on a 24/7 basis and instruct them the fundamentals of 'Front-end Web Development with React.js'"
       }
     ],
