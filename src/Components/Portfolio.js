@@ -31,6 +31,15 @@ const Portfolio = ({ data }) => {
                 >
                   <i className="fa fa-link"></i>
                 </a>
+                {projects.api ? (
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href={projects.api}
+                  >
+                    <i className="fa fa-link"></i>
+                  </a>
+                ) : null}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"

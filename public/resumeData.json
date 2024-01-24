@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Adnan Sami Shazim",
-    "occupation": "React.js Developer",
-    "description": "Working with MERN Stack",
-    "image": "profilepic.jpg",
-    "bio": "I'm a Front-End Web Developer with experience building out both consumer and startup applications. This includes web apps with the latest technologies, mostly React.js, MongoDB, Node.js & Express.js. By ONLY providing PREMIUM service, I will help build you an MVP to land a victory on the fund-raising, investments, and success.",
+    "occupation": "Software Engineer (Mobile & Web)",
+    "description": "Working with MERN Stack & React Native",
+    "image": "Adnan_Sami_Shazim.jpg",
+    "bio": "Software Engineer specialized in JavaScript, React, Next.js and React Native. With over 2 years of experience in web development & cross-platform mobile app development, I consider myself a valuable asset to any team focused on developing responsive, user-friendly web and mobile applications. I am committed to staying up-to-date with the latest technologies and trends in the industry, and I look forward to continuing to grow and develop further in this industry.",
     "contactmessage": "Get in touch",
-    "email": "shazim_99@yahoo.com",
+    "email": "adnansamishazim@gmail.com",
     "phone": "+880 1521 251853",
     "address": {
-      "street": "Azimpur",
+      "street": "124 Azimpur China Building",
       "city": "Dhaka",
       "state": "Bangladesh",
       "zip": "1205"
@@ -37,24 +37,42 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": "Institute of Information & Technology (IIT) - University of Dhaka",
+        "degree": "Post Graduate Diploma, Information Technology (PGDIT)",
+        "graduated": "2023 - Present",
+        "description": "Post Graduate Diploma in Information Technology (PGDIT)"
+      },
+      {
         "school": "Institute of Education and Research - University of Dhaka",
         "degree": "Bachelor's Degree, Bachelor of Education",
-        "graduated": "2018 - Present",
-        "description": "Major in Biological Science Education (CGPA 3.56)"
+        "graduated": "2018 - 2022",
+        "description": "Major in Biological Science Education (CGPA 3.7)"
       }
     ],
     "work": [
       {
+        "company": "Techzu Ichicode Pte Ltd",
+        "title": "React Native Developer",
+        "years": "Aug 2022 - Present",
+        "description": "As a software engineer, my responsibilities are; producing fully functional customized application and integration with APIs, working closely with UI/UX team to design and develop application interface, supporting the team in the entire application development lifecycle, designing, developing and integrating cross-platform applications with effective APIs, unit Testing, troubleshooting, debugging and monitoring activities to ensure or improve responsiveness and efficiency on all projects Collaborating with other team members to bring projects and initiatives to fruition, last but not the least, liaising with teams to plan new features with MERN Stack and React Native"
+      },
+      {
+        "company": "ITPeople Limited (Sister Concern of Spellbound Leo Burnett)",
+        "title": "React Native Developer",
+        "years": "March 2022 - August 2022",
+        "description": "As a junior react native developer, I worked designed the react native app while integrated Restful APIs for interested investors to join Bangladesh-Qatar Roadshow event. I also reduced time to market by 60% with a hassle free UI Design and user experience while collaborating with senior devs."
+      },
+      {
         "company": "Konnect Enterprises LLC",
-        "title": "React Native Developer | Intern",
-        "years": "Nov 2021 - Present",
+        "title": "React Native Developer",
+        "years": "Nov 2021 - January 2022",
         "description": "Core responsibility is to develop native mobile application (Tailgate) using React Native Expo, Firebase, Redux Toolkit, and Tailwind CSS. Also, designing screens from Figma and implementing them with React Navigation. Another responsibility is to manage and attend daily SCRUM with team members and weekly meetings with the senior developer to keep everything in check."
       },
       {
         "company": "Coworking Hub",
-        "title": "React.js Developer | Team Leader",
+        "title": "React.js Developer | Team Lead",
         "years": "March 2021 - Sep 2021",
-        "description": "Currently working as an in-house React.js Developer and Team Leader of Web & Programming Team. My responsibility here as a team leader is to support team members on a 24/7 basis and instruct them the fundamentals of 'Front-end Web Development with React.js'"
+        "description": "Worked as an in-house React.js Developer and Team Leader of Web & Programming Team. My responsibility here as a team leader is to support team members on a 24/7 basis and instruct them the fundamentals of 'Front-end Web Development with React.js'"
       }
     ],
     "skills": [
@@ -63,8 +81,16 @@
         "level": "99%"
       },
       {
+        "name": "React native",
+        "level": "95%"
+      },
+      {
         "name": "React.js",
         "level": "95%"
+      },
+      {
+        "name": "Next.js",
+        "level": "85%"
       },
       {
         "name": "Node.js",
@@ -83,17 +109,37 @@
         "level": "90%"
       },
       {
-        "name": "UI Frameworks (Bootstrap, Material UI, Tailwind CSS)",
+        "name": "UI (Bootstrap, Material UI, Tailwind CSS, AntDesign)",
         "level": "95%"
       },
       {
-        "name": "Version Control (GitHub, GitLab)",
+        "name": "Version Control (GitHub, GitLab, BitBucket)",
         "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "KinnectFit",
+        "category": "Full Stack Development",
+        "tech": "JavaScript|Next.js|React.js|Redux|NextUI|TailwindCSS|MongoDB|Express.js",
+        "image": "kinnectfit.png",
+        "url": "https://kinnectfit.vercel.app/",
+        "api": "https://kinnectfit-backend.onrender.com/",
+        "client": "https://github.com/shazim8480/kinnectfit",
+        "server": "https://github.com/shazim8480/kinnectfit-backend"
+      },
+      {
+        "title": "Rental Housing",
+        "category": "Full Stack Development",
+        "tech": "TypeScript|Next.js|React.js|Redux|TailwindCSS|MongoDB|Express.js",
+        "image": "rentalHousing.png",
+        "url": "https://rental-housing-rosy.vercel.app/",
+        "api": "https://rental-housing-server.onrender.com/",
+        "client": "https://github.com/shazim8480/rental-housing",
+        "server": "https://github.com/shazim8480/rental-housing-server"
+      },
       {
         "title": "Dirty Wash (MERN)",
         "category": "Full Stack Development",
@@ -102,24 +148,6 @@
         "url": "https://dirty-wash.firebaseapp.com/",
         "client": "https://github.com/shazim8480/Dirty-wash-client",
         "server": "https://github.com/shazim8480/Dirty-wash-server"
-      },
-      {
-        "title": "Collective Stall (MERN)",
-        "category": "Full Stack Development",
-        "tech": "MongoDB|Express.js|React.js|Node.js",
-        "image": "collectiveStall.jpeg",
-        "url": "https://collective-stall.web.app/",
-        "client": "https://github.com/shazim8480/collective-stall-client",
-        "server": "https://github.com/shazim8480/collective-stall-server"
-      },
-      {
-        "title": "City Ride (React.js)",
-        "category": "Front-End Development",
-        "tech": "React.js|Firebase Authentication",
-        "image": "city-ride_reactjs.jpeg",
-        "url": "https://city-ride.netlify.app/",
-        "client": "https://github.com/shazim8480/city-ride-auth-firebase",
-        "server": "https://github.com/shazim8480/city-ride-auth-firebase"
       }
     ]
   },

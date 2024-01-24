@@ -562,6 +562,7 @@ ul#nav li.current a {
 }
 .portfolio-item .portfolio-item-meta p {
   font: 10px/18px "opensans-light", sans-serif;
+  word-wrap: break-word;
   color: #c6c7c7;
   margin-bottom: 0;
 }
